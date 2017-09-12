@@ -33,7 +33,7 @@ With the following core features:
 - On command line in root folder 
 ```
 bundle install
-cd && yarn
+cd client && yarn
 cd ..
 ```
 - Create database and seed data
